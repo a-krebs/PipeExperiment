@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeExperiment", "PipeExperiment.csproj", "{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "..\ConsoleApplication1\ConsoleApplication1.csproj", "{6CB64686-6C15-4A49-B514-66950BEF6757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Test|x86 = Test|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}.Debug|x86.ActiveCfg = Debug|x86
+		{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}.Debug|x86.Build.0 = Debug|x86
+		{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}.Release|x86.ActiveCfg = Release|x86
+		{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}.Release|x86.Build.0 = Release|x86
+		{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}.Test|x86.ActiveCfg = Test|x86
+		{D6A192B3-7AD7-4D90-86B6-C0DB863B1C82}.Test|x86.Build.0 = Test|x86
+		{6CB64686-6C15-4A49-B514-66950BEF6757}.Debug|x86.ActiveCfg = Debug|x86
+		{6CB64686-6C15-4A49-B514-66950BEF6757}.Debug|x86.Build.0 = Debug|x86
+		{6CB64686-6C15-4A49-B514-66950BEF6757}.Release|x86.ActiveCfg = Release|x86
+		{6CB64686-6C15-4A49-B514-66950BEF6757}.Release|x86.Build.0 = Release|x86
+		{6CB64686-6C15-4A49-B514-66950BEF6757}.Test|x86.ActiveCfg = Release|x86
+		{6CB64686-6C15-4A49-B514-66950BEF6757}.Test|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
